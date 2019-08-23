@@ -1,5 +1,5 @@
-// Tarot Card Deck
-// Credit Paul Henckel for this code, which was modified by Dr. Derek Austin
+// Tarot Card Deck example by Dr. Derek Austin 🥳 (Github master)
+// Credit Paul Henckel for the original code
 // Source: https://codesandbox.io/s/j0y0vpz59?from-embed
 
 import { render } from 'react-dom'
@@ -11,7 +11,7 @@ import './styles.css'
 const tarotDeck = [
   // Cards from https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck
   // Authorship: Arthur Edward Waite, Pamela Coleman Smith was the artist and worked as an artist 'for hire.'
-  // Waite was the copyright holder and he died in 1942. - These images scanned by Holly Voley 
+  // Waite was the copyright holder and he died in 1942. - These images scanned by Holly Voley
   'https://upload.wikimedia.org/wikipedia/en/9/90/RWS_Tarot_00_Fool.jpg',
   'https://upload.wikimedia.org/wikipedia/en/d/de/RWS_Tarot_01_Magician.jpg',
   'https://upload.wikimedia.org/wikipedia/en/8/88/RWS_Tarot_02_High_Priestess.jpg',
