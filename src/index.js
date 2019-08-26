@@ -68,8 +68,6 @@ const tarotDeck = [
   'https://upload.wikimedia.org/wikipedia/en/3/35/Cups04.jpg',
   'https://upload.wikimedia.org/wikipedia/en/d/d7/Cups05.jpg',
   'https://upload.wikimedia.org/wikipedia/en/1/17/Cups06.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/1/17/Cups06.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/1/17/Cups06.jpg',
   'https://upload.wikimedia.org/wikipedia/en/a/ae/Cups07.jpg',
   'https://upload.wikimedia.org/wikipedia/en/6/60/Cups08.jpg',
   'https://upload.wikimedia.org/wikipedia/en/2/24/Cups09.jpg',
